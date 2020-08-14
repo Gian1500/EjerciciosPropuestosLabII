@@ -1,0 +1,6 @@
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\obj\Debug\JuegoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\bin\Debug\JuegoWhile.exe.config
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\bin\Debug\JuegoWhile.exe
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\bin\Debug\JuegoWhile.pdb
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\obj\Debug\JuegoWhile.exe
+C:\Users\Gian\source\repos\JuegoWhile\JuegoWhile\obj\Debug\JuegoWhile.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\bin\Debug\Ejercicio propuesto.exe.config
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\bin\Debug\Ejercicio propuesto.exe
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\bin\Debug\Ejercicio propuesto.pdb
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\obj\Debug\Ejercicio propuesto.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\obj\Debug\Ejercicio propuesto.exe
+C:\Users\Gian\source\repos\Ejercicio propuesto\Ejercicio propuesto\obj\Debug\Ejercicio propuesto.pdb

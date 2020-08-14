@@ -1,0 +1,7 @@
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\obj\Debug\Juegi01e.csprojAssemblyReference.cache
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\obj\Debug\Juegi01e.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\bin\Debug\Juegi01e.exe.config
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\bin\Debug\Juegi01e.exe
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\bin\Debug\Juegi01e.pdb
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\obj\Debug\Juegi01e.exe
+C:\Users\Gian\source\repos\Juegi01e\Juegi01e\obj\Debug\Juegi01e.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gian\source\repos\Juego01h\Juego01h\bin\Debug\Juego01h.exe.config
+C:\Users\Gian\source\repos\Juego01h\Juego01h\bin\Debug\Juego01h.exe
+C:\Users\Gian\source\repos\Juego01h\Juego01h\bin\Debug\Juego01h.pdb
+C:\Users\Gian\source\repos\Juego01h\Juego01h\obj\Debug\Juego01h.csprojAssemblyReference.cache
+C:\Users\Gian\source\repos\Juego01h\Juego01h\obj\Debug\Juego01h.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\Juego01h\Juego01h\obj\Debug\Juego01h.exe
+C:\Users\Gian\source\repos\Juego01h\Juego01h\obj\Debug\Juego01h.pdb

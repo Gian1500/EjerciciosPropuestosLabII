@@ -1,0 +1,7 @@
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\bin\Debug\JuegoWhileModificado.exe.config
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\bin\Debug\JuegoWhileModificado.exe
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\bin\Debug\JuegoWhileModificado.pdb
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\obj\Debug\JuegoWhileModificado.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\obj\Debug\JuegoWhileModificado.exe
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\obj\Debug\JuegoWhileModificado.pdb
+C:\Users\Gian\source\repos\JuegoWhileModificado\JuegoWhileModificado\obj\Debug\JuegoWhileModificado.csprojAssemblyReference.cache
