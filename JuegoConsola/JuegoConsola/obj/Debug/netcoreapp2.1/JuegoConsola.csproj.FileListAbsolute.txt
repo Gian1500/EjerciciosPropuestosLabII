@@ -1,0 +1,11 @@
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\bin\Debug\netcoreapp2.1\JuegoConsola.deps.json
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\bin\Debug\netcoreapp2.1\JuegoConsola.runtimeconfig.json
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\bin\Debug\netcoreapp2.1\JuegoConsola.runtimeconfig.dev.json
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\bin\Debug\netcoreapp2.1\JuegoConsola.dll
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\bin\Debug\netcoreapp2.1\JuegoConsola.pdb
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.AssemblyInfo.cs
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.dll
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoConsola\JuegoConsola\obj\Debug\netcoreapp2.1\JuegoConsola.pdb
