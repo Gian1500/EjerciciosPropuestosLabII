@@ -1,0 +1,20 @@
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.exe.config
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.exe
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.pdb
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csprojAssemblyReference.cache
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Form1.resources
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Properties.Resources.resources
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.exe
+C:\Users\Gian\source\repos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.pdb
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.exe.config
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.exe
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\bin\Debug\JuegoCartas.pdb
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Form1.resources
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.Properties.Resources.resources
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.exe
+C:\Users\Gian\Desktop\Repositorio\Laboratorio II juegos\JuegoCartas\JuegoCartas\obj\Debug\JuegoCartas.pdb
